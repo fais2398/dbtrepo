@@ -1,7 +1,3 @@
-{{config (
-    materialized ="view"
-)}}
-
 with orders as (
 
     select
